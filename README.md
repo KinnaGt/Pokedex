@@ -1,5 +1,5 @@
 # Pokedex
-A pokemon app that let's you explore a large libarary of pokemons, view their strenghts and save your favorite pokemons!. (Built using freezed and flutter_bloc)
+A pokemon app that let's you explore a large library of pokemons, view their strenghts and save your favorite pokemons!. (Built using freezed and flutter_bloc)
 
 # Running instructions
 * step 1 ```flutter pub get```

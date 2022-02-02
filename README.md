@@ -23,6 +23,7 @@ A pokemon app that let's you explore a large libarary of pokemons, view their st
 <img src="https://firebasestorage.googleapis.com/v0/b/abumuhab.appspot.com/o/pokedex%2FScreenshot_20220115-065155.jpg?alt=media&token=cd177db2-51a6-4498-a33c-4c74c442d369" width="30%" vspace="10" hspace="10">
 <img src="https://firebasestorage.googleapis.com/v0/b/abumuhab.appspot.com/o/pokedex%2FScreenshot_20220115-070828.jpg?alt=media&token=c23e7817-755a-40e4-92af-e4fcd73b73da" width="30%" vspace="10" hspace="10"><br>
 
-## Author
-Abdulmalik
+## Author_
+  Iñaki Lapeyre
+  
 
